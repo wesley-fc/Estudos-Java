@@ -1,3 +1,5 @@
+package fundamentos;
+
 public class ArquivoInicial {
     // Todo código Java deve estar dentro de uma classe.
     // Não é permitido ter código solto fora de classes.
@@ -35,3 +37,4 @@ public class ArquivoInicial {
 
 class Carro {
 }
+
